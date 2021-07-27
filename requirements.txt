@@ -1,0 +1,6 @@
+spotipy==2.18.0
+rich==9.5.1
+numpy==1.19.4
+matplotlib==3.3.3
+bfmplot==0.0.10
+simplejson==3.17.2
