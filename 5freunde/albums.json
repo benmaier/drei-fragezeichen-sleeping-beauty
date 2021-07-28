@@ -1,0 +1,989 @@
+[
+    {
+        "episode": 1,
+        "release_date": "1978-11-01",
+        "total_tracks": 40,
+        "uri": "spotify:album:7Hx03j0oo3eLfuijiUXAHg",
+        "name": "001/beim Wanderzirkus"
+    },
+    {
+        "episode": 2,
+        "release_date": "1978-11-02",
+        "total_tracks": 40,
+        "uri": "spotify:album:7tfESyt6scRuKPzOAXF4PC",
+        "name": "002/im Zeltlager"
+    },
+    {
+        "episode": 3,
+        "release_date": "1978-11-03",
+        "total_tracks": 40,
+        "uri": "spotify:album:3M4cqtKzzPRWUdwxoFiBnz",
+        "name": "003/und das Burgverlies"
+    },
+    {
+        "episode": 4,
+        "release_date": "1978-11-04",
+        "total_tracks": 40,
+        "uri": "spotify:album:6Uou6b83FPi6q0BNQi4Px2",
+        "name": "004/als Retter in der Not"
+    },
+    {
+        "episode": 5,
+        "release_date": "1979-02-01",
+        "total_tracks": 40,
+        "uri": "spotify:album:5gCYYcivqoJL2voJg5K1ou",
+        "name": "005/und der Zauberer Wu"
+    },
+    {
+        "episode": 6,
+        "release_date": "1979-02-02",
+        "total_tracks": 40,
+        "uri": "spotify:album:0pZAAAYIBruAZZkqg9K6PX",
+        "name": "006/helfen ihrem Kameraden"
+    },
+    {
+        "episode": 7,
+        "release_date": "1979-04-01",
+        "total_tracks": 40,
+        "uri": "spotify:album:1xqLIzPqBdhSg5cgVG840f",
+        "name": "007/verfolgen die Strandr\u00e4uber"
+    },
+    {
+        "episode": 8,
+        "release_date": "1979-04-02",
+        "total_tracks": 40,
+        "uri": "spotify:album:2dAUg0DIFiH60oyhHlhuWt",
+        "name": "008/und ein Zigeunerm\u00e4dchen"
+    },
+    {
+        "episode": 9,
+        "release_date": "1980-01-01",
+        "total_tracks": 40,
+        "uri": "spotify:album:5fFMNQtye6cjBXSt38axNj",
+        "name": "009/im alten Turm"
+    },
+    {
+        "episode": 10,
+        "release_date": "1980-01-02",
+        "total_tracks": 40,
+        "uri": "spotify:album:4OYANWebxdIpdWKRIx17LP",
+        "name": "010/im Nebel"
+    },
+    {
+        "episode": 11,
+        "release_date": "1981-06-01",
+        "total_tracks": 40,
+        "uri": "spotify:album:0zW2tRB2mekUQdMClmLsTV",
+        "name": "011/geraten in Schwierigkeiten"
+    },
+    {
+        "episode": 12,
+        "release_date": "1981-06-02",
+        "total_tracks": 40,
+        "uri": "spotify:album:4vG33WvVt4u3kaLxkGfjts",
+        "name": "012/auf der Felseninsel"
+    },
+    {
+        "episode": 13,
+        "release_date": "1981-06-03",
+        "total_tracks": 40,
+        "uri": "spotify:album:6PtodneZRZqjBRbqGEUBYq",
+        "name": "013/jagen die Entf\u00fchrer"
+    },
+    {
+        "episode": 14,
+        "release_date": "1981-11-01",
+        "total_tracks": 40,
+        "uri": "spotify:album:1AuEwi9nwzYDbr6ELO3iQ7",
+        "name": "014/machen eine Entdeckung"
+    },
+    {
+        "episode": 15,
+        "release_date": "1981-11-02",
+        "total_tracks": 40,
+        "uri": "spotify:album:2EYXrVYSW2yvzdacdZXdCN",
+        "name": "015/wittern ein Geheimnis"
+    },
+    {
+        "episode": 16,
+        "release_date": "1981-11-03",
+        "total_tracks": 40,
+        "uri": "spotify:album:2R4v7Ul9pBuYixU3Z12jOq",
+        "name": "016/auf dem Leuchtturm"
+    },
+    {
+        "episode": 17,
+        "release_date": "1982-09-01",
+        "total_tracks": 40,
+        "uri": "spotify:album:3QmaekbwAghuJ5nGi7waz4",
+        "name": "017/auf gro\u00dfer Fahrt"
+    },
+    {
+        "episode": 18,
+        "release_date": "1982-09-02",
+        "total_tracks": 40,
+        "uri": "spotify:album:3Dkdr202NIt7jCSwNNyGCY",
+        "name": "018/auf geheimnisvollen Spuren"
+    },
+    {
+        "episode": 19,
+        "release_date": "1982-09-03",
+        "total_tracks": 40,
+        "uri": "spotify:album:2N0HMpaXpx9NCmivgzcnqZ",
+        "name": "019/auf Schmugglerjagd"
+    },
+    {
+        "episode": 20,
+        "release_date": "1983-01-01",
+        "total_tracks": 40,
+        "uri": "spotify:album:30X7YEF6VsbqY7YiiNdaTv",
+        "name": "020/erforschen die Schatzinsel"
+    },
+    {
+        "episode": 21,
+        "release_date": "1983-05-01",
+        "total_tracks": 40,
+        "uri": "spotify:album:6q0JbsC5Cz4AL1JSJzUIQ8",
+        "name": "021/auf neuen Abenteuern"
+    },
+    {
+        "episode": 22,
+        "release_date": "1988-05-02",
+        "total_tracks": 40,
+        "uri": "spotify:album:7lH0VALZVG4EWR9Mjumkc0",
+        "name": "022/und die Museumsbande"
+    },
+    {
+        "episode": 23,
+        "release_date": "1988-05-03",
+        "total_tracks": 40,
+        "uri": "spotify:album:7KT79rYzrmQcSkMRqTRcFS",
+        "name": "023/und die Jagd nach den Smaragden"
+    },
+    {
+        "episode": 24,
+        "release_date": "1989-02-01",
+        "total_tracks": 40,
+        "uri": "spotify:album:6ZJG6HTgrYmXl15UsyPJ3N",
+        "name": "024/im Fernsehen"
+    },
+    {
+        "episode": 25,
+        "release_date": "1989-02-02",
+        "total_tracks": 40,
+        "uri": "spotify:album:5DLMGNCegLz67iifFwWiDd",
+        "name": "025/und die Flugzeugentf\u00fchrer"
+    },
+    {
+        "episode": 26,
+        "release_date": "1990-01-01",
+        "total_tracks": 40,
+        "uri": "spotify:album:1O8JeQXHM6GkksezdglGuw",
+        "name": "026/und die Perlenschmuggler"
+    },
+    {
+        "episode": 27,
+        "release_date": "1990-01-02",
+        "total_tracks": 40,
+        "uri": "spotify:album:7c0inxL7ps7oQ9FmXj0lL2",
+        "name": "027/und die goldene Truhe"
+    },
+    {
+        "episode": 28,
+        "release_date": "1991-01-01",
+        "total_tracks": 40,
+        "uri": "spotify:album:2G5pUbYCwZF7JGxGlEEMHX",
+        "name": "028/und die geheimnisvolle Stadt"
+    },
+    {
+        "episode": 29,
+        "release_date": "1991-01-02",
+        "total_tracks": 40,
+        "uri": "spotify:album:6xqvtpo28RddZoNoUCC4Ln",
+        "name": "029/und die Schwarze Maske"
+    },
+    {
+        "episode": 30,
+        "release_date": "1999-02-08",
+        "total_tracks": 40,
+        "uri": "spotify:album:0LLPKdB0JAu4ChP4VSBnLs",
+        "name": "030/auf gef\u00e4hrlichen Pfaden"
+    },
+    {
+        "episode": 31,
+        "release_date": "1999-02-09",
+        "total_tracks": 40,
+        "uri": "spotify:album:1rVETlFNVsiTZ8XOcSAG0y",
+        "name": "031/in der Geisterbahn"
+    },
+    {
+        "episode": 32,
+        "release_date": "1999-06-14",
+        "total_tracks": 40,
+        "uri": "spotify:album:4l6hSvAivAqYTwAJNpuGUl",
+        "name": "032/und das Geheimnis des Oldtimers"
+    },
+    {
+        "episode": 33,
+        "release_date": "1999-10-11",
+        "total_tracks": 40,
+        "uri": "spotify:album:3TjAvJy8Jp1gTdcYpzyQrG",
+        "name": "033/entdecken den Geheimgang"
+    },
+    {
+        "episode": 34,
+        "release_date": "1999-12-13",
+        "total_tracks": 40,
+        "uri": "spotify:album:07t7JTdTe3EJxrVuBpDlam",
+        "name": "034/und die Gespensterinsel"
+    },
+    {
+        "episode": 35,
+        "release_date": "2000-03-13",
+        "total_tracks": 40,
+        "uri": "spotify:album:0pNx8acv1Khae0a6cqYMxx",
+        "name": "035/und die gestohlene Briefmarke"
+    },
+    {
+        "episode": 36,
+        "release_date": "2000-05-15",
+        "total_tracks": 40,
+        "uri": "spotify:album:16k5VHiYdyJlLZ1HDnHMTu",
+        "name": "036/gefangen im H\u00fcnengrab"
+    },
+    {
+        "episode": 37,
+        "release_date": "2000-08-14",
+        "total_tracks": 40,
+        "uri": "spotify:album:2d1Kmo2rQbpJK1mfAlPyou",
+        "name": "037/und das Abenteuer im Ballon"
+    },
+    {
+        "episode": 38,
+        "release_date": "2000-10-01",
+        "total_tracks": 40,
+        "uri": "spotify:album:4YjfEt3QFakmPHX0PrBe9n",
+        "name": "038/und das r\u00e4tselhafte Medaillon"
+    },
+    {
+        "episode": 39,
+        "release_date": "2000-12-01",
+        "total_tracks": 40,
+        "uri": "spotify:album:1GRTlGk1VE2IsaAtn65rFT",
+        "name": "039/und das Monster im Moor"
+    },
+    {
+        "episode": 40,
+        "release_date": "2001-03-12",
+        "total_tracks": 40,
+        "uri": "spotify:album:6yL9LUp5Yf9Lmd5B85QmV1",
+        "name": "040/und das verschwundene Pferd"
+    },
+    {
+        "episode": 41,
+        "release_date": "2001-05-14",
+        "total_tracks": 40,
+        "uri": "spotify:album:14oT9rq1E7KG10UyohENQz",
+        "name": "041/und die Spur des Dinosauriers"
+    },
+    {
+        "episode": 42,
+        "release_date": "2001-06-11",
+        "total_tracks": 40,
+        "uri": "spotify:album:34QraAd9TYolYLJln84Fcq",
+        "name": "042/und der Dolch des Piraten"
+    },
+    {
+        "episode": 43,
+        "release_date": "2001-09-10",
+        "total_tracks": 40,
+        "uri": "spotify:album:4QvS9DYUA9FI97z5uignYO",
+        "name": "043/und der unheimliche M\u00f6nch"
+    },
+    {
+        "episode": 44,
+        "release_date": "2001-12-03",
+        "total_tracks": 40,
+        "uri": "spotify:album:325FWbbT8I4Bsjfq7MRCSw",
+        "name": "044/und die Flaschenpost"
+    },
+    {
+        "episode": 45,
+        "release_date": "2002-02-11",
+        "total_tracks": 40,
+        "uri": "spotify:album:09HT8wAayNt5y4EWA7Hont",
+        "name": "045/und das Bootshaus in der Nebelbucht"
+    },
+    {
+        "episode": 46,
+        "release_date": "2002-04-15",
+        "total_tracks": 40,
+        "uri": "spotify:album:5C9uMZlffC4HuHBA1VWHTH",
+        "name": "046/l\u00f6sen das R\u00e4tsel des Landschulheims"
+    },
+    {
+        "episode": 47,
+        "release_date": "2002-06-10",
+        "total_tracks": 40,
+        "uri": "spotify:album:0TP7S0UMx4ekRfkWYLNRAN",
+        "name": "047/und der singende Schrank"
+    },
+    {
+        "episode": 48,
+        "release_date": "2002-08-12",
+        "total_tracks": 40,
+        "uri": "spotify:album:1TDoizBwEYox8icnxRtNc5",
+        "name": "048/und die Schrift der Tempelritter"
+    },
+    {
+        "episode": 49,
+        "release_date": "2002-11-11",
+        "total_tracks": 40,
+        "uri": "spotify:album:32saLGUXvsHEw0hKYNr0yI",
+        "name": "049/und die Frau ohne Ged\u00e4chtnis"
+    },
+    {
+        "episode": 50,
+        "release_date": "2003-02-10",
+        "total_tracks": 40,
+        "uri": "spotify:album:5FFMI41Qtmi70WSUZhSH0Z",
+        "name": "050/Timmy in Gefahr"
+    },
+    {
+        "episode": 51,
+        "release_date": "2003-05-12",
+        "total_tracks": 40,
+        "uri": "spotify:album:1Y3pOmF4IXHU08Rop0TTN0",
+        "name": "051/und der Eisenbahnraub"
+    },
+    {
+        "episode": 52,
+        "release_date": "2003-07-04",
+        "total_tracks": 40,
+        "uri": "spotify:album:6K9b0vkwZu1As1Ynymut6e",
+        "name": "052/und das Phantom von Sherwood Forest"
+    },
+    {
+        "episode": 53,
+        "release_date": "2003-09-08",
+        "total_tracks": 40,
+        "uri": "spotify:album:7KL5tfLbkTgJ3SW23YpnLH",
+        "name": "053/und die geheimnisvollen Kornkreise"
+    },
+    {
+        "episode": 54,
+        "release_date": "2003-11-10",
+        "total_tracks": 40,
+        "uri": "spotify:album:63LJzNuzHOR8zyhICkhZ3U",
+        "name": "054/suchen den Stern des Nordens"
+    },
+    {
+        "episode": 55,
+        "release_date": "2004-01-12",
+        "total_tracks": 40,
+        "uri": "spotify:album:10MCeSGudi98fDs54Yo3LZ",
+        "name": "055/und die goldene Schlange"
+    },
+    {
+        "episode": 56,
+        "release_date": "2004-03-15",
+        "total_tracks": 40,
+        "uri": "spotify:album:2qpNu6Uzrrt2YG6wksmCj9",
+        "name": "056/und die geheimnisvolle Erbschaft"
+    },
+    {
+        "episode": 57,
+        "release_date": "2004-06-14",
+        "total_tracks": 40,
+        "uri": "spotify:album:5IyZl2UWrXvzEZxgTNmRYs",
+        "name": "057/und der fliegende Teppich"
+    },
+    {
+        "episode": 58,
+        "release_date": "2004-08-10",
+        "total_tracks": 40,
+        "uri": "spotify:album:4QKoFx1seuUXKjZkAzCY4x",
+        "name": "058/und die afrikanische Statue"
+    },
+    {
+        "episode": 59,
+        "release_date": "2004-10-04",
+        "total_tracks": 40,
+        "uri": "spotify:album:45PizjOsP8gWSGoEwpyj8q",
+        "name": "059/und das Abenteuer im Schnee"
+    },
+    {
+        "episode": 60,
+        "release_date": "2005-01-10",
+        "total_tracks": 40,
+        "uri": "spotify:album:6EhVUKOjpa6zOR3HJrmQSw",
+        "name": "060/tauchen unter"
+    },
+    {
+        "episode": 61,
+        "release_date": "2005-04-04",
+        "total_tracks": 40,
+        "uri": "spotify:album:6c97zHkOHsOazhPs5o04My",
+        "name": "061/und die Aufregung im Raubtierhaus"
+    },
+    {
+        "episode": 62,
+        "release_date": "2005-04-05",
+        "total_tracks": 40,
+        "uri": "spotify:album:6m9zlu731zUcXa6s6YwNH7",
+        "name": "062/und das Spuk-Festival"
+    },
+    {
+        "episode": 63,
+        "release_date": "2005-07-11",
+        "total_tracks": 40,
+        "uri": "spotify:album:3MULBnI2WPbx3fwThf5mu1",
+        "name": "063/und der Stein des Pharao"
+    },
+    {
+        "episode": 64,
+        "release_date": "2005-09-12",
+        "total_tracks": 40,
+        "uri": "spotify:album:3UDg2jZxtAu2FzZYWPFida",
+        "name": "064/geraten unter Verdacht"
+    },
+    {
+        "episode": 65,
+        "release_date": "2005-11-25",
+        "total_tracks": 40,
+        "uri": "spotify:album:3VISsuJBFrcP7NxAo3aQWl",
+        "name": "065/und die schwarze Festung"
+    },
+    {
+        "episode": 66,
+        "release_date": "2006-03-17",
+        "total_tracks": 40,
+        "uri": "spotify:album:1RUrpfazmZTqx95YxWHQTA",
+        "name": "066/und das Seeungeheuer"
+    },
+    {
+        "episode": 67,
+        "release_date": "2006-05-19",
+        "total_tracks": 40,
+        "uri": "spotify:album:1Un1S8omjGi2weFV5s8krP",
+        "name": "067/und der unheimliche Brandstifter"
+    },
+    {
+        "episode": 68,
+        "release_date": "2006-08-11",
+        "total_tracks": 40,
+        "uri": "spotify:album:4H8aT42VazYkjXLA30Rs46",
+        "name": "068/und die Druiden von Stonehenge"
+    },
+    {
+        "episode": 69,
+        "release_date": "2006-09-29",
+        "total_tracks": 40,
+        "uri": "spotify:album:5c6cJEmVIZMCDoIM8C4mBJ",
+        "name": "069/und die Gefahr f\u00fcr die Felseninsel"
+    },
+    {
+        "episode": 70,
+        "release_date": "2006-11-24",
+        "total_tracks": 40,
+        "uri": "spotify:album:4K5VhGgTc0HHpqxnOnpY3b",
+        "name": "070/und die R\u00fcckkehr zur Gespensterinsel"
+    },
+    {
+        "episode": 71,
+        "release_date": "2007-03-09",
+        "total_tracks": 40,
+        "uri": "spotify:album:4Y6aidArNM8JD6z85nRHv4",
+        "name": "071/und der Verrat an Bord"
+    },
+    {
+        "episode": 72,
+        "release_date": "2007-05-04",
+        "total_tracks": 40,
+        "uri": "spotify:album:6e4bQvU28sgg4OIhqhDvmp",
+        "name": "072/auf der Spur der Entf\u00fchrer"
+    },
+    {
+        "episode": 73,
+        "release_date": "2007-08-10",
+        "total_tracks": 40,
+        "uri": "spotify:album:0nwiPm3ZUes1vNBto5sxN4",
+        "name": "073/und das R\u00e4tsel der Zinnmine"
+    },
+    {
+        "episode": 74,
+        "release_date": "2007-10-05",
+        "total_tracks": 40,
+        "uri": "spotify:album:5He2m6kpqw58EYAbBOpxhf",
+        "name": "074/verfolgen den Wilderer"
+    },
+    {
+        "episode": 75,
+        "release_date": "2008-02-08",
+        "total_tracks": 40,
+        "uri": "spotify:album:166ZxOtFgr5y5McnH27vwU",
+        "name": "075/und das unheimliche Hexenhaus"
+    },
+    {
+        "episode": 76,
+        "release_date": "2008-05-09",
+        "total_tracks": 40,
+        "uri": "spotify:album:0l8qQcC2q5BiOSYUoQCllH",
+        "name": "076//und das Geheimnis des Maskottchens"
+    },
+    {
+        "episode": 77,
+        "release_date": "2008-07-11",
+        "total_tracks": 40,
+        "uri": "spotify:album:7xBJ98nCNVCOclOSnYOzeI",
+        "name": "077/und das unheimliche Bergmonster"
+    },
+    {
+        "episode": 78,
+        "release_date": "2008-09-26",
+        "total_tracks": 40,
+        "uri": "spotify:album:0Oe8F56HOoKhJX7tvlvL11",
+        "name": "078/und die Piraten-Bande"
+    },
+    {
+        "episode": 79,
+        "release_date": "2008-11-14",
+        "total_tracks": 40,
+        "uri": "spotify:album:6Ob5DYYECuqRisjiNvL5GM",
+        "name": "079/und das R\u00e4tsel des Drachen"
+    },
+    {
+        "episode": 80,
+        "release_date": "2009-02-20",
+        "total_tracks": 40,
+        "uri": "spotify:album:0dUM4mpdxdrhu5n2FqvhgJ",
+        "name": "080/und das gef\u00e4hrliche Antoniusfeuer"
+    },
+    {
+        "episode": 81,
+        "release_date": "2009-04-17",
+        "total_tracks": 40,
+        "uri": "spotify:album:2Yk0FlTxdQwOBiyazcL7E9",
+        "name": "081/und das H\u00f6hlen-Labyrinth"
+    },
+    {
+        "episode": 82,
+        "release_date": "2009-04-18",
+        "total_tracks": 40,
+        "uri": "spotify:album:7DFYLos47Brgbc0r4Nb7vt",
+        "name": "082/und der verh\u00e4ngnisvolle Treibsand"
+    },
+    {
+        "episode": 83,
+        "release_date": "2009-09-25",
+        "total_tracks": 40,
+        "uri": "spotify:album:6xtKrk6LQFbEjERrUlPkzT",
+        "name": "083/und das Abenteuer im Hundeschlitten"
+    },
+    {
+        "episode": 84,
+        "release_date": "2009-10-16",
+        "total_tracks": 40,
+        "uri": "spotify:album:2OeNjbHqDfve97D2q0NJJg",
+        "name": "084/und der Gesang der Sirenen"
+    },
+    {
+        "episode": 85,
+        "release_date": "2010-02-12",
+        "total_tracks": 40,
+        "uri": "spotify:album:7vGPi7jFvzn6d5RgQnle6h",
+        "name": "085/und der verschwundene Wikingerhelm"
+    },
+    {
+        "episode": 86,
+        "release_date": "2010-04-16",
+        "total_tracks": 40,
+        "uri": "spotify:album:1niKUvurX2rFPMkFdYSvGk",
+        "name": "086/und die verbotenen Bl\u00fcten"
+    },
+    {
+        "episode": 87,
+        "release_date": "2010-06-11",
+        "total_tracks": 40,
+        "uri": "spotify:album:3Qud7esyANFkH9t13BEPUw",
+        "name": "087/und das r\u00e4tselhafte Sternbild"
+    },
+    {
+        "episode": 88,
+        "release_date": "2010-09-17",
+        "total_tracks": 40,
+        "uri": "spotify:album:6MMT7DkAPlVeTz6hvvXXW0",
+        "name": "088/und das Gespenst von Canterbury"
+    },
+    {
+        "episode": 89,
+        "release_date": "2010-11-26",
+        "total_tracks": 40,
+        "uri": "spotify:album:6g0meqQ9kw3Y0UFiWzyJ7k",
+        "name": "089/und das Familienwappen"
+    },
+    {
+        "episode": 90,
+        "release_date": "2011-02-11",
+        "total_tracks": 40,
+        "uri": "spotify:album:6vNpPneJaDekq3fidhNPN7",
+        "name": "090/retten die Honigbienen"
+    },
+    {
+        "episode": 91,
+        "release_date": "2011-04-15",
+        "total_tracks": 40,
+        "uri": "spotify:album:2G3MuFljF6VMDESi6Vonll",
+        "name": "091/und der Schatz aus dem U-Boot"
+    },
+    {
+        "episode": 92,
+        "release_date": "2011-06-10",
+        "total_tracks": 40,
+        "uri": "spotify:album:6pOqvlELjegUu4JxJNeKQR",
+        "name": "092/auf der Insel der Seer\u00e4uber"
+    },
+    {
+        "episode": 93,
+        "release_date": "2011-09-23",
+        "total_tracks": 40,
+        "uri": "spotify:album:22KZteRiQXIeJimUZ2TbK3",
+        "name": "093/und das Geheimnis des Winterwaldes"
+    },
+    {
+        "episode": 94,
+        "release_date": "2011-11-25",
+        "total_tracks": 40,
+        "uri": "spotify:album:6jXHqJzpe6vtywUv5jIHHE",
+        "name": "094/und die Sturmflut"
+    },
+    {
+        "episode": 95,
+        "release_date": "2012-02-10",
+        "total_tracks": 40,
+        "uri": "spotify:album:3TM4JQFuCVRI3tKP8fl6yp",
+        "name": "095/in der H\u00f6hle des Urmenschen"
+    },
+    {
+        "episode": 96,
+        "release_date": "2012-04-13",
+        "total_tracks": 40,
+        "uri": "spotify:album:5Vj6YBjqO0DqRy4Tukg41u",
+        "name": "096/und das gef\u00e4hrliche Treibgut"
+    },
+    {
+        "episode": 97,
+        "release_date": "2012-06-08",
+        "total_tracks": 40,
+        "uri": "spotify:album:0a8k5a76wziBi7sXXXkAEv",
+        "name": "097/auf der Spur der Silberdiebe"
+    },
+    {
+        "episode": 98,
+        "release_date": "2012-09-14",
+        "total_tracks": 40,
+        "uri": "spotify:album:0cX49g0wBtvDryEyU5FhwA",
+        "name": "098/und die Legende der Zwillingseiche"
+    },
+    {
+        "episode": 99,
+        "release_date": "2012-11-23",
+        "total_tracks": 40,
+        "uri": "spotify:album:1nFkBK73s1YS93ZWFRDbF5",
+        "name": "099/und der seltsame Leuchtturm"
+    },
+    {
+        "episode": 100,
+        "release_date": "2013-02-15",
+        "total_tracks": 40,
+        "uri": "spotify:album:7MJOaVJijHPPdc7ERn6W3h",
+        "name": "100/und das Gorillakind in Gefahr"
+    },
+    {
+        "episode": 101,
+        "release_date": "2013-04-12",
+        "total_tracks": 40,
+        "uri": "spotify:album:6GpIAoh3k8slwVBsNHUqqX",
+        "name": "101/und der vergessene Schatz"
+    },
+    {
+        "episode": 102,
+        "release_date": "2013-06-07",
+        "total_tracks": 40,
+        "uri": "spotify:album:2cEEvRONOp9cLUYudoaO3i",
+        "name": "102/und die goldene Maske des Pharao"
+    },
+    {
+        "episode": 103,
+        "release_date": "2013-09-13",
+        "total_tracks": 40,
+        "uri": "spotify:album:5N7Dfn8jUp8SId7CybhP6Q",
+        "name": "103/und die giftigen Feuerquallen"
+    },
+    {
+        "episode": 104,
+        "release_date": "2013-11-22",
+        "total_tracks": 40,
+        "uri": "spotify:album:3z1g2zjc3aigQ1arAgQuF2",
+        "name": "104/und die Jagd nach der Diebesbande"
+    },
+    {
+        "episode": 105,
+        "release_date": "2014-02-14",
+        "total_tracks": 40,
+        "uri": "spotify:album:48AuM6VSUHPR2Xk2Nmx3cu",
+        "name": "105/und das magische Spinnennetz"
+    },
+    {
+        "episode": 106,
+        "release_date": "2014-04-11",
+        "total_tracks": 40,
+        "uri": "spotify:album:4RfwChkrM1deq4fad67E1a",
+        "name": "106/und das geheimnisvolle Polarschiff"
+    },
+    {
+        "episode": 107,
+        "release_date": "2014-06-06",
+        "total_tracks": 40,
+        "uri": "spotify:album:0Hq1SKPJFP0g75PWisli8G",
+        "name": "107/und die Nacht im Safari-Park"
+    },
+    {
+        "episode": 108,
+        "release_date": "2014-09-26",
+        "total_tracks": 40,
+        "uri": "spotify:album:2McZvjpPKOHdb8Eu7Cu9vt",
+        "name": "108/und die Entf\u00fchrung im Skigebiet"
+    },
+    {
+        "episode": 109,
+        "release_date": "2014-11-21",
+        "total_tracks": 40,
+        "uri": "spotify:album:5SN5o60yKKZTU2uuZNn5Dq",
+        "name": "109/und die mysteri\u00f6se Botschaft"
+    },
+    {
+        "episode": 110,
+        "release_date": "2015-02-13",
+        "total_tracks": 40,
+        "uri": "spotify:album:5sBbygDrYQfmrU7kMXUcZX",
+        "name": "110/auf dem Pfad der K\u00fcstenschmuggler"
+    },
+    {
+        "episode": 111,
+        "release_date": "2015-04-10",
+        "total_tracks": 40,
+        "uri": "spotify:album:0YO812T6aOroGX98fT3bME",
+        "name": "111/und das Geheimverlies im Schloss"
+    },
+    {
+        "episode": 112,
+        "release_date": "2015-06-05",
+        "total_tracks": 40,
+        "uri": "spotify:album:1NwFaXCdP89xzoFTmriE0l",
+        "name": "112/und der Delfin in der Felsenbucht"
+    },
+    {
+        "episode": 113,
+        "release_date": "2015-09-11",
+        "total_tracks": 40,
+        "uri": "spotify:album:4dcEoyqGRRV17uwsRByHG4",
+        "name": "113/und das Feuer auf der Felseninsel"
+    },
+    {
+        "episode": 114,
+        "release_date": "2015-11-20",
+        "total_tracks": 40,
+        "uri": "spotify:album:0nPeO3y0Zf8aG5EAqxTFyR",
+        "name": "114/und der Skandal auf der Freilichtb\u00fchne"
+    },
+    {
+        "episode": 115,
+        "release_date": "2016-02-19",
+        "total_tracks": 40,
+        "uri": "spotify:album:19fDVxsjnraxX7EiyPaYrf",
+        "name": "115/helfen den Flutopfern"
+    },
+    {
+        "episode": 116,
+        "release_date": "2016-04-15",
+        "total_tracks": 40,
+        "uri": "spotify:album:7qL5b8h2mQSNwIokYvHTcd",
+        "name": "116/und der chinesische Pflanzenzauber"
+    },
+    {
+        "episode": 117,
+        "release_date": "2016-06-03",
+        "total_tracks": 40,
+        "uri": "spotify:album:7m39uymt9bZuhztX8iRtjw",
+        "name": "117/und der Wolf in den Highlands"
+    },
+    {
+        "episode": 118,
+        "release_date": "2016-09-09",
+        "total_tracks": 40,
+        "uri": "spotify:album:2WkrFpSG4nZDMmlO58E6sD",
+        "name": "118/und der falsche Patient"
+    },
+    {
+        "episode": 119,
+        "release_date": "2016-11-18",
+        "total_tracks": 40,
+        "uri": "spotify:album:66yMv3N4xjf7yfx8xAFnjk",
+        "name": "119/und das versunkene Schiff"
+    },
+    {
+        "episode": 120,
+        "release_date": "2017-02-17",
+        "total_tracks": 40,
+        "uri": "spotify:album:4NllbPOq0cMAD4NQZ8NIEC",
+        "name": "120/und die doppelte Erfindung"
+    },
+    {
+        "episode": 121,
+        "release_date": "2017-04-21",
+        "total_tracks": 40,
+        "uri": "spotify:album:2mH1pMOtZ0rPAHhQ8lnVex",
+        "name": "121/und die verlassene Jagdh\u00fctte"
+    },
+    {
+        "episode": 122,
+        "release_date": "2017-06-16",
+        "total_tracks": 40,
+        "uri": "spotify:album:0oX0xTrbf5mm6J9nTMQKGJ",
+        "name": "122/und der Gro\u00dfalarm in Kirrin"
+    },
+    {
+        "episode": 123,
+        "release_date": "2017-09-22",
+        "total_tracks": 40,
+        "uri": "spotify:album:6V5J8fOkRDDXxsxAHi0Ut4",
+        "name": "123/und der Zug im Dunkeln"
+    },
+    {
+        "episode": 124,
+        "release_date": "2017-11-10",
+        "total_tracks": 40,
+        "uri": "spotify:album:2MdUrlBdCIa6RanKfQTcv8",
+        "name": "124/auf der Suche nach Timmy"
+    },
+    {
+        "episode": 125,
+        "release_date": "2018-02-23",
+        "total_tracks": 58,
+        "uri": "spotify:album:7exgOwKsg2MuiHI4Pb5Ewv",
+        "name": "125/und die gemeine Falle"
+    },
+    {
+        "episode": 126,
+        "release_date": "2018-04-20",
+        "total_tracks": 40,
+        "uri": "spotify:album:3uTZGVVhXzJ3KU1ZBxPH6d",
+        "name": "126/und die gef\u00e4hrlichen Wurzeln"
+    },
+    {
+        "episode": 127,
+        "release_date": "2018-06-15",
+        "total_tracks": 40,
+        "uri": "spotify:album:3VAxpuOINfqGTBUnSyvPNF",
+        "name": "127/und die Teufelsbucht"
+    },
+    {
+        "episode": 128,
+        "release_date": "2018-09-07",
+        "total_tracks": 40,
+        "uri": "spotify:album:7yFFnG7vxrccj0pjLpOVSq",
+        "name": "128/und der unsichtbare Feind"
+    },
+    {
+        "episode": 129,
+        "release_date": "2018-11-23",
+        "total_tracks": 40,
+        "uri": "spotify:album:1wvCvWOhELxrXklMXcZM5D",
+        "name": "129/und die kleinen Detektive"
+    },
+    {
+        "episode": 130,
+        "release_date": "2019-02-15",
+        "total_tracks": 40,
+        "uri": "spotify:album:2Jee9XPRgwhGWe7SM6ISXd",
+        "name": "130/und die Glocke der Wikinger"
+    },
+    {
+        "episode": 131,
+        "release_date": "2019-04-26",
+        "total_tracks": 40,
+        "uri": "spotify:album:2TtW4W6HAHWbPcKrQd5x5y",
+        "name": "131/verfolgen die Fahrraddiebe"
+    },
+    {
+        "episode": 132,
+        "release_date": "2019-06-28",
+        "total_tracks": 40,
+        "uri": "spotify:album:5sOpvlONkSUPgi09ME8Gki",
+        "name": "132/und das R\u00e4tsel um den Stromausfall"
+    },
+    {
+        "episode": 133,
+        "release_date": "2019-09-20",
+        "total_tracks": 42,
+        "uri": "spotify:album:6DOXgeV49OTiik0kUVppDL",
+        "name": "133/und der Esel in der Tropfsteinh\u00f6hle"
+    },
+    {
+        "episode": 134,
+        "release_date": "2019-11-22",
+        "total_tracks": 42,
+        "uri": "spotify:album:6AN2eovtiP3NXkgcMfNt8k",
+        "name": "134/und die unheimliche Achterbahn"
+    },
+    {
+        "episode": 135,
+        "release_date": "2020-01-31",
+        "total_tracks": 42,
+        "uri": "spotify:album:1XEcqpqo05AEb6geQhldoR",
+        "name": "135/und die verd\u00e4chtige \u00d6lfirma"
+    },
+    {
+        "episode": 136,
+        "release_date": "2020-04-03",
+        "total_tracks": 42,
+        "uri": "spotify:album:61tT5XI9GX40z31yexaoS8",
+        "name": "136/und der w\u00fctende Stier"
+    },
+    {
+        "episode": 137,
+        "release_date": "2020-06-05",
+        "total_tracks": 42,
+        "uri": "spotify:album:5yoGMEr5doaWJnTlmXfNVV",
+        "name": "137/und der Schokoladendieb von London"
+    },
+    {
+        "episode": 138,
+        "release_date": "2020-09-04",
+        "total_tracks": 42,
+        "uri": "spotify:album:2H46tTqNpMkpR55YN3TAc5",
+        "name": "138/am Ende der Welt"
+    },
+    {
+        "episode": 139,
+        "release_date": "2020-11-27",
+        "total_tracks": 42,
+        "uri": "spotify:album:2evSFTbb7Kj2EVN1HHo66J",
+        "name": "139/und die Geisterstadt"
+    },
+    {
+        "episode": 140,
+        "release_date": "2021-02-05",
+        "total_tracks": 42,
+        "uri": "spotify:album:1kabjjRCVKzJs8pkTOpFyS",
+        "name": "140/und das geheimnisvolle Licht"
+    },
+    {
+        "episode": 141,
+        "release_date": "2021-03-19",
+        "total_tracks": 30,
+        "uri": "spotify:album:0hVfhiwdhAVOWvOOD324Nr",
+        "name": "141/und das r\u00e4tselhafte Spukhaus"
+    }
+]
